@@ -15,6 +15,7 @@ The only Thing the employee has to do is to authorize him/herself with the uniqu
 
 ### Admin Login Interface
 ![Admin login interface](https://github.com/humhainpiyush/Attendance-taking-system/blob/863496841d437d3fcfdd3f7b432c8f23ff61a05a/Pictures/admin_login.png)
+> *Admin here means who'll check whether the attendance marked is valid or not and can thus remove the entry depending on the circumstances.
 
 ### User login interface 
 ![User login interface](https://github.com/humhainpiyush/Attendance-taking-system/blob/863496841d437d3fcfdd3f7b432c8f23ff61a05a/Pictures/user_login.png)
